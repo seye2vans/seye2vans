@@ -16,15 +16,15 @@ Currently, I’m:
 ---
 
 ### 🛠️ Tech Stack  
-**Frontend:** React, React Native, JavaScript, HTML, CSS  
-**Backend:** Spring Boot, Node.js  
-**Other Tools:** Framer Motion, Git, GitHub, VS Code, Chrome AI APIs  
+**Frontend:** React, React Native, JavaScript, Next.js, CSS  
+**Backend:** Spring Boot, Node.js , java , Express
+**Other Tools:** Framer Motion, Git, GitHub, VS Code, Chrome AI APIs , Swagger Ui, Docker , Jenkins , Junit
 
 ---
 
 ### 🧩 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,java,spring,git,github,vscode,figma,mongodb,next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,java,spring,git,github,vscode,figma,mongodb,next.js,docker,jenkins,junit" />
 </p>
 
 ---
