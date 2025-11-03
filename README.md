@@ -24,7 +24,7 @@ Currently, I’m:
 
 ### 🧩 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,java,spring,git,github,vscode,figma,mongodb,next.js,docker,jenkins,junit" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,java,spring,git,github,vscode,figma,mongodb,nextjs,docker,jenkins,kubernetes" />
 </p>
 
 ---
