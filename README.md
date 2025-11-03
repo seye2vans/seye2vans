@@ -35,10 +35,10 @@ Currently, I’m:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-s9b8.vercel.app/)
 
 ---
-
 ### 📈 GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorOlaleye&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOlaleye&layout=compact&theme=radical)
+![Seye2vans's GitHub stats](https://github-readme-stats.vercel.app/api?username=seye2vans&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seye2vans&layout=compact&theme=radical)
+
 
 ---
 
