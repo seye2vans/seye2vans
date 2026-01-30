@@ -9,8 +9,8 @@ I’m a passionate developer who loves bringing ideas to life through **code, cr
 I build with **React**, **React Native**, and **Spring Boot**, focusing on crafting smooth, intuitive user experiences.  
 
 Currently, I’m:  
-- 🚀 Building **HireLink** – a platform that connects employers and job seekers.  
-- 🧩 Creating an **AI-powered text processing interface** with Chrome’s AI APIs.  
+- 🚀 Building **Rentant** – a rentals platform that allows users rent apartments, shortlets and hostels from their comfort zone without agent fees .  
+- 🧩 Creating an **GhostReciept** -A secure digital platform for generating, sending, and verifying transaction receipts..  
 - 📘 Learning and exploring new ways to merge design, innovation, and logic in tech.  
 
 ---
@@ -18,8 +18,7 @@ Currently, I’m:
 ### 🛠️ Tech Stack  
 **Frontend:** React, React Native, JavaScript, Next.js, CSS  
 **Backend:** Spring Boot, Node.js , java , Express
-**Other Tools:** Framer Motion, Git, GitHub, VS Code, Chrome AI APIs , Swagger Ui, Docker , Jenkins , Junit
-
+**Other Tools:** Framer Motion, Git, GitHub, VS Code, Chrome AI APIs , Swagger Ui, Docker , Jenkins , Junit, Kubernetes
 ---
 
 ### 🧩 Languages & Tools  
